@@ -1,4 +1,4 @@
-# ClashX Download & Setup Guide (Archived) | Best Free macOS Clash Client
+# 2026 ClashX Download & Setup Guide (Archived) | Free macOS Clash Client
 
 > ⚠️ **Important Notice:** The **ClashX** project has officially ceased maintenance and updates. This page provides **historical stable version backups**, suitable for existing users on macOS who prefer the classic ClashX interface.
 
@@ -24,6 +24,12 @@ Official GitHub Release Mirror: [GitHub Releases Backup](https://github.com/down
 > **Tip:** We recommend the **Stable** version for the best compatibility and fewer issues.
 
 ---
+
+### ClashX Guide
+
+- [ClashXSetup Tutorial](https://clashxhub.com/clashX/)
+- [ClashXLatest APK Download](https://clashxhub.com/clash-backup-download/)
+- [Premium Proxy Node Recommendations](https://clashxhub.com/node-subscribe-recommend/)
 
 ## 📌 Current Status of ClashX (Important)
 
