@@ -27,7 +27,7 @@ Official GitHub Release Mirror: [GitHub Releases Backup](https://github.com/down
 
 ### ClashX Guide
 
-- [ClashXSetup Tutorial](https://clashxhub.com/clashX/)
+- [ClashXSetup Tutorial](https://clashxhub.com/clashx-for-mac/)
 - [ClashXLatest APK Download](https://clashxhub.com/clash-backup-download/)
 - [Premium Proxy Node Recommendations](https://clashxhub.com/node-subscribe-recommend/)
 
